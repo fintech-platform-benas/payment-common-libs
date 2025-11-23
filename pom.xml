@@ -95,7 +95,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/HB3369/payment-common-libs</url>
+            <url>https://maven.pkg.github.com/fintech-platform-benas/payment-common-libs</url>
         </repository>
     </distributionManagement>
 </project>
